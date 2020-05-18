@@ -9,9 +9,9 @@ All found WAV files will be converted to MP3 files and
 saved with the same name and in the same directory.
 
 
-====================================================================================
+
 Build for Linux
-====================================================================================
+---------------
 
 1. Create a directory in the root directory with sources.
     mkdir build
@@ -26,9 +26,9 @@ Build for Linux
 
 After successful building wav2mp3 binary is located in "build" directory.
 
-====================================================================================
+
 Build for Windows
-====================================================================================
+-----------------
 
 In order to build the application for Windows it is neccessary to VS 2019.
 
